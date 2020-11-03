@@ -1,3 +1,5 @@
+Single Sideband Modulation using Hilbert Transform and MATLAB
+______________________________________________________________________________________________________________________________________________________________________________
 Readme.md
 
 This project aims at understanding Single Sideband Suppressed Carrier Modulation using 
